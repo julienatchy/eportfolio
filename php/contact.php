@@ -3,10 +3,9 @@
 <head>
     <title>Julien ATCHY-DALAMA</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <link rel="stylesheet" type="text/css" href="eportfolio/css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/114779/Socicon/style-cf.css?9ukd8d">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
@@ -16,20 +15,21 @@
         <a href="home.html" class="brand-logo white-text">E-PORTFOLIO</a>
 
         <ul class="right hide-on-med-and-down">
-          <li><a class="white-text" href="../html/home.html">Accueil</a></li>
-          <li><a class="white-text" href="../html/about.html">À propos de moi</a></li>
-          <li><a class="white-text" href="../html/skills.html">Mes compétences</a></li>
-          <li><a class="white-text" href="../html/interests.html">Mes centres d'intérêts</a></li>
-          <li><a class="white-text" href="../html/projects.html">Mes projets</a></li>
+          <li><a class="white-text" href="eportfolio/html/home.html">Accueil</a></li>
+          <li><a class="white-text" href="eportfolio/html/about.html">À propos de moi</a></li>
+          <li><a class="white-text" href="eportfolio/html/skills.html">Mes compétences</a></li>
+          <li><a class="white-text" href="eportfolio/html/interests.html">Mes centres d'intérêts</a></li>
+          <li><a class="white-text" href="eportfolio/html/projects.html">Mes projets</a></li>
         </ul>
       </div>
   </nav>
 
   <ul id="sidenav" class="sidenav">
-        <li><a class="black-text" href="../html/home.html">Accueil</a></li>
-        <li><a class="black-text" href="../html/about.html">À propos de moi</a></li>
-        <li><a class="black-text" href="../html/skills.html">Mes compétences</a></li>
-        <li><a class="black-text" href="../html/interests.html">Mes centres d'intérêts</a></li>
+        <li><a class="black-text" href="eportfolio/html/home.html">Accueil</a></li>
+        <li><a class="black-text" href="eportfolio/html/about.html">À propos de moi</a></li>
+        <li><a class="black-text" href="eportfolio/html/skills.html">Mes compétences</a></li>
+        <li><a class="black-text" href="eportfolio/html/interests.html">Mes centres d'intérêts</a></li>
+        <li><a class="black-text" href="eportfolio/html/projects.html">Mes projets</a></li>
     </ul>
 
     <div class="container">
