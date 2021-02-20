@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(blue, white);
+}
+
+.container .row {
+  min-height: 100vh;
+  margin-bottom: 0px;
+}
+
+p.flow-text {
+  margin-bottom: 40px !important;
+  text-align: center;
+}
+p.flow-text:last-child {
+  margin-bottom: 0px !important;
+}
+
+img {
+  width: 50%;
+  margin: auto 25%
+}
+
+strong {
+  color: blue;
+}
+
+.profile-title {
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 8px;
+}
+
+.profile-desc {
+  display: inline-block;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.social-icons li {
+  display: inline-block;
+  padding: 0px 9px;
+  font-size: 30px;
+  line-height: 30px;
+}
